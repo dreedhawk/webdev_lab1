@@ -5,7 +5,7 @@ Devon's first website.
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Internet Technologies and Web Design</title>
+# Internet Technologies and Web Design
 </head>
 <body>
   <p>Hello, my name is Devon. Hopefully I followed the instructions.</p>
