@@ -5,7 +5,7 @@ Devon's first website.
 <head>
   <meta charset="utf-8">
   
-Internet Technologies and Web Design
+<p>Internet Technologies and Web Design</p>
 
 </head>
 <body>
