@@ -1,7 +1,6 @@
 # webdev_lab1
 Devon's first website.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
